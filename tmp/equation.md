@@ -1,0 +1,1 @@
+![formula](http://latex.codecogs.com/gif.latex?%5Csum_%7Bi%7D%5E%7Bn%7D%20i "\\sum\_{i}^{n} i")
